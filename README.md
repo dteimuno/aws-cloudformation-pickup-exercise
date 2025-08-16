@@ -1,0 +1,1 @@
+# aws-cloudformation-pickup-exercise
